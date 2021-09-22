@@ -1,0 +1,10 @@
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\bin\Release\FidelityFX Assist.exe.config
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\bin\Release\FidelityFX Assist.exe
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\bin\Release\FidelityFX Assist.pdb
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\obj\Release\FidelityFX Assist.csprojAssemblyReference.cache
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\obj\Release\FidelityFX_Assist.Form1.resources
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\obj\Release\FidelityFX_Assist.Properties.Resources.resources
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\obj\Release\FidelityFX Assist.csproj.GenerateResource.cache
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\obj\Release\FidelityFX Assist.csproj.CoreCompileInputs.cache
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\obj\Release\FidelityFX Assist.exe
+D:\Repos\FidelityFX_Assist\FidelityFX Assist\FidelityFX Assist\obj\Release\FidelityFX Assist.pdb
