@@ -1,4 +1,6 @@
-##GUI Assistance for [FidelityFX-CLI](https://github.com/GPUOpen-Effects/FidelityFX-CLI)
+**GUI Assistance for [FidelityFX-CLI](https://github.com/GPUOpen-Effects/FidelityFX-CLI)**
+
+![](https://img.shields.io/github/tag/NukeGH05T/FiedilityFX-Assist?style=for-the-badge&logo=csharp) ![](https://img.shields.io/github/release/NukeGH05T/FiedilityFX-Assist?style=for-the-badge&logo=csharp) ![](https://img.shields.io/github/issues/NukeGH05T/FiedilityFX-Assist?style=for-the-badge&logo=csharp)
 
 ![Screensho 01](https://i.imgur.com/XiFA8o0.png "Screensho 01")
 
